@@ -2,7 +2,12 @@ Testando
 Testando mais uma vez
 Testando de novo
 testando de novo2
+
 2
 1
 novaBranch
 rebase testando
+
+1
+testando fetch
+
